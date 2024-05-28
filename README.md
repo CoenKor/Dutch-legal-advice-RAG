@@ -36,8 +36,8 @@ The results of this project are organized into several folders:
    - Contains the input and output prompts of the model.
    - Includes prompts for similar cases (cases that are similar to those in the Neo4J database) and non-similar cases (cases that are not similar to those in the Neo4J database).
 
-2. **End Results**:
-   - An Excel file comparing the verdicts created by the RAG model to the actual verdicts from `rechtspraak.nl`.
+    **End Results**:
+      - An Excel file comparing the verdicts created by the RAG model to the actual verdicts from `rechtspraak.nl`.
 
 3. **Robustness**:
    - Contains 50 outputs of the model from the same case description to test robustness.
